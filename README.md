@@ -5,5 +5,5 @@
 
 ## installation requirements
 
-```pip install -U langchain``````<br
+```pip install -U langchain``````<br>
 ```pip install -U llama-cpp-python```
