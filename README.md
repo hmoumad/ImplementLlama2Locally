@@ -1,7 +1,7 @@
 ## install Llama-2
 To install Hugging Face locally, follow these steps:
 
-1. Navigate to the Hugging Face model repository at the following link: TheBloke/Llama-2-7B-Chat-GGUF.
+1. Navigate to the Hugging Face model repository at the following link: [TheBloke/Llama-2-7B-Chat-GGUF](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGUF#llama-2-7b-chat---gguf).
 
 2. Once on the repository page, you'll find the model's details and information about its usage. Take a moment to review the documentation to familiarize yourself with the model.
 
