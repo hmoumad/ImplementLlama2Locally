@@ -8,4 +8,6 @@
 
 ```pip install -U langchain```<br>
 
-```pip install -U llama-cpp-python```
+```pip install -U llama-cpp-python``` <br>
+
+```pip install streamlit```
